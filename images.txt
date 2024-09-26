@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 dreamacro/clash
 haishanh/yacd
+ghcr.io/bitmagnet-io/bitmagnet:latest
+postgres:16-alpine
